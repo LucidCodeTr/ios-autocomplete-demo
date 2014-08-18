@@ -57,12 +57,12 @@
     [autocompleteTableView reloadData];
 }
 
+//arama cubuguna giris yapildiginda tetiklenir
 - (BOOL)textField:(UITextField *)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString *)string {
     
     //aciliste gizli olan listeyi simdi gorunur hale getir:
     autocompleteTableView.hidden = NO;
     
-    //arama cubugundaki yaziyi kisiler listesindeki deger ile tamamla
     NSString *substring = [NSString stringWithString:textField.text];
     substring = [substring stringByReplacingCharactersInRange:range withString:string ];
     [self searchAutocompleteEntriesWithSubstring:substring];
