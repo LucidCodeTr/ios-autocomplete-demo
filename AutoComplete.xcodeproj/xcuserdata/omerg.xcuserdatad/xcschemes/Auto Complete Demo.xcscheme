@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "771AD65619A2997F00A16025"
                BuildableName = "Auto Complete Demo.app"
-               BlueprintName = "Auto Complete Demo"
-               ReferencedContainer = "container:Auto Complete Demo.xcodeproj">
+               BlueprintName = "AutoComplete"
+               ReferencedContainer = "container:AutoComplete.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "771AD67719A2997F00A16025"
                BuildableName = "Auto Complete DemoTests.xctest"
-               BlueprintName = "Auto Complete DemoTests"
-               ReferencedContainer = "container:Auto Complete Demo.xcodeproj">
+               BlueprintName = "AutoCompleteTests"
+               ReferencedContainer = "container:AutoComplete.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "771AD65619A2997F00A16025"
             BuildableName = "Auto Complete Demo.app"
-            BlueprintName = "Auto Complete Demo"
-            ReferencedContainer = "container:Auto Complete Demo.xcodeproj">
+            BlueprintName = "AutoComplete"
+            ReferencedContainer = "container:AutoComplete.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "771AD65619A2997F00A16025"
             BuildableName = "Auto Complete Demo.app"
-            BlueprintName = "Auto Complete Demo"
-            ReferencedContainer = "container:Auto Complete Demo.xcodeproj">
+            BlueprintName = "AutoComplete"
+            ReferencedContainer = "container:AutoComplete.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "771AD65619A2997F00A16025"
             BuildableName = "Auto Complete Demo.app"
-            BlueprintName = "Auto Complete Demo"
-            ReferencedContainer = "container:Auto Complete Demo.xcodeproj">
+            BlueprintName = "AutoComplete"
+            ReferencedContainer = "container:AutoComplete.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
